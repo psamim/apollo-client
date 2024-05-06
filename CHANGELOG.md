@@ -1,5 +1,11 @@
 # @apollo/client
 
+## 3.10.3
+
+### Patch Changes
+
+- [#11811](https://github.com/apollographql/apollo-client/pull/11811) [`d67d7f9`](https://github.com/apollographql/apollo-client/commit/d67d7f9a2943273cacaefb26a54184e81f12b022) Thanks [@phryneas](https://github.com/phryneas)! - Adjust some types for React 19 compat
+
 ## 3.10.2
 
 ### Patch Changes
